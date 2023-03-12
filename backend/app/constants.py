@@ -1,0 +1,5 @@
+MAX_OFFSET = 9000000000000000000
+
+PAGINATION_COUNT = "Pagination-Count"
+PAGINATION_OFFSET = "Pagination-Offset"
+PAGINATION_LIMIT = "Pagination-Limit"

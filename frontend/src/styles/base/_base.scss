@@ -1,0 +1,9 @@
+body {
+  color: var(--color-100);
+  background: var(--color-bg-1);
+  font-family: var(--primary-font);
+  -webkit-font-smoothing: antialiased;
+  // font-size: clamp(14px, 10px + 1vmin, 16px);
+  font-size: 14px;
+  line-height: 1.2;
+}

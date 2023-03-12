@@ -1,0 +1,35 @@
+:root {
+  --max-width: 1300px;
+  --header-height: 89px;
+
+  --border-radius: 10px;
+  --border-radius-2: 20px;
+
+  --color-primary: #84b5e2;
+  --color-primary-2: linear-gradient(
+                  213.82deg,
+                  #94d7b6 20.11%,
+                  #84b5e2 43.55%,
+                  #7e76dc 69.56%,
+                  #f87575 90.44%
+  );
+  --color-primary-3: linear-gradient(
+                  213deg,
+                  #94d7b6 40.11%,
+                  #84b5e2 50.55%,
+                  #7e76dc 60.56%,
+                  #f87575 30.44%
+  );
+
+  --color-100: #fff;
+  --color-200: #aaa;
+
+  --color-success: #60ba1a;
+  --color-error: #f87575;
+
+  --color-bg-1: #1e1e1e;
+  --color-bg-2: #484848;
+
+  --primary-font: 'Montserrat', sans-serif;
+  scroll-behavior: smooth;
+}
